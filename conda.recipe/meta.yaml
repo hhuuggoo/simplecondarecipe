@@ -11,4 +11,4 @@ requirements:
 
 build:
   entry_points:
-    - test = examplepackage:pass
+    - test = examplepackage:cli
