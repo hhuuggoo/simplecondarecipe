@@ -8,3 +8,7 @@ source:
 requirements:
   build:
     - python
+
+build:
+  entry_points:
+    - test = examplepackage:pass
