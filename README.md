@@ -25,3 +25,4 @@ Here is the build.sh
 cp -rf $SRC_DIR/examplepackage $SP_DIR
 ```
 
+The corresponding windows bld.bat should be pretty easy to put together.
